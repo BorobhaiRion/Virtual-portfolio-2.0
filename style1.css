@@ -3,7 +3,7 @@
 }
 body{
     align-items: center;
-    margin: 120px;
+    margin: 50px;
     background:linear-gradient(rgb(0, 0, 0),rgb(37, 5, 37),rgb(2, 0, 2));
     justify-content:center;
     font-family:"handjet",system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
@@ -12,7 +12,7 @@ body{
 .home-button{
     position:absolute;
     left: 525px;
-    top:72px;
+    top:7px;
 }
 .about{
     color:rgb(33, 185, 44)
