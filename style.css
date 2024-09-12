@@ -6,8 +6,13 @@
 
 .img {
     margin-top: 20px;
-    overflow: visible;
-    padding: 30px;
+    overflow: hidden;
+    border-radius: 100%;
+    border: solid;
+    width:fit-content;
+    height: 195px;
+    
+    
 }
 
 .name-button-container {
@@ -92,6 +97,8 @@ body {
 
 .contract {
     color: aliceblue;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 h3, h4 {

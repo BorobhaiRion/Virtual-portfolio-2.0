@@ -10,11 +10,11 @@
 :root {
     --gradient: linear-gradient(
         45deg,
-        #ffc3a0,
-        #6dd5ed,
-        #753a88,
-        #ffdde1,
-        #734b6d
+        #a95e33,
+        #338091,
+        #ae5ec9,
+        #d7939b,
+        #d09cc8
     );
 }
 
